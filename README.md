@@ -1,8 +1,8 @@
 Hack-Assembler 
 
-Java implementation of the assembler required to translate HACK assembly code to machine language to be processed by the NAND to Tetris course computer.  
+Java implementation of the assembler required to translate HACK assembly code to machine language to be processed by the HACK Computer.  
 
-This assembler was designed per the Module 8 assignment of the NAND to Tetris course (https://www.coursera.org/learn/build-a-computer). The assembler will perform the following: 
+This assembler was designed per the specifications of the HACK computer specification from the NAND to Tetris course (https://nand2tetris.github.io/). The assembler will perform the following: 
 
 1. Import a specific .asm file (assembly code) 
 
